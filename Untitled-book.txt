@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+  theme: jekyll-theme-leap-day
     <meta charset="utf-8">
     <title>My book</title>
   </head>
